@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Access Modifier/1. Instance vs. Class Variables and Methods/1. Instance vs. Class Variables and Methods.iml" filepath="$PROJECT_DIR$/Access Modifier/1. Instance vs. Class Variables and Methods/1. Instance vs. Class Variables and Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Access Modifier/Access Modifier.iml" filepath="$PROJECT_DIR$/Access Modifier/Access Modifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array/Array.iml" filepath="$PROJECT_DIR$/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Collections_Assignment/Collections_Assignment.iml" filepath="$PROJECT_DIR$/Collections_Assignment/Collections_Assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Control Statement/Control Statement.iml" filepath="$PROJECT_DIR$/Control Statement/Control Statement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Methods/Java Methods.iml" filepath="$PROJECT_DIR$/Java Methods/Java Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java class and Obejct/Java class and Obejct.iml" filepath="$PROJECT_DIR$/Java class and Obejct/Java class and Obejct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Programming Elements/Programming Elements.iml" filepath="$PROJECT_DIR$/Programming Elements/Programming Elements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/String/String.iml" filepath="$PROJECT_DIR$/String/String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Wrapper Class/Wrapper Class.iml" filepath="$PROJECT_DIR$/Wrapper Class/Wrapper Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oops_java.iml" filepath="$PROJECT_DIR$/oops_java.iml" />
+    </modules>
+  </component>
+</project>
